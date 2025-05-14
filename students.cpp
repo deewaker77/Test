@@ -8,7 +8,7 @@
 struct Student {
     char name[30];
     int roll;
-    float marks;
+    float marks ;
 };
 
 void saveData() {
